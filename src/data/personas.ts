@@ -1,0 +1,40 @@
+import { Persona } from '@/types';
+
+export const PERSONAS: Persona[] = [
+  {
+    id: 'ananya',
+    name: 'Ananya',
+    age: 24,
+    tag: 'Growth SIP',
+    portfolio: 850000,
+    returns: 18.4,
+    overlapIndex: 42,
+    feeDrag: 9850,
+    ltcgPool: 66700,
+    sipAmount: 12000,
+  },
+  {
+    id: 'rajesh',
+    name: 'Rajesh',
+    age: 34,
+    tag: 'Multi-Asset',
+    portfolio: 3200000,
+    returns: 22.1,
+    overlapIndex: 58,
+    feeDrag: 37200,
+    ltcgPool: 112500,
+    sipAmount: 45000,
+  },
+  {
+    id: 'amit',
+    name: 'Amit',
+    age: 22,
+    tag: 'First-Timer',
+    portfolio: 120000,
+    returns: 8.2,
+    overlapIndex: 28,
+    feeDrag: 1450,
+    ltcgPool: 8200,
+    sipAmount: 3000,
+  },
+];
