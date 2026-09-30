@@ -2,9 +2,8 @@
 
 > **A Product Management Showcase & Interactive Fintech MVP** built using React 18, TypeScript, Tailwind CSS, and Recharts on Bolt.new / Vite.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-00D09C?style=for-the-badge&logo=vercel)](https://vercel.com)
-[![PRD Spec](https://img.shields.io/badge/Product-PRD_v1.0-06B6D4?style=for-the-badge&logo=googledocs)](https://github.com)
-[![SEBI Compliance](https://img.shields.io/badge/SEBI-RIA_Compliant-amber?style=for-the-badge)](https://github.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-00D09C?style=for-the-badge&logo=vercel)]([https://vercel.com](https://prism-wealth-pw.vercel.app/))
+[![PRD Spec](https://img.shields.io/badge/Product-PRD_v1.0-06B6D4?style=for-the-badge&logo=googledocs)]([https://github.com](https://github.com/KPJ-Dev32/PrismWealth/tree/main))
 
 ---
 
